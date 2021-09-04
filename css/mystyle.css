@@ -1,0 +1,19 @@
+.masthead .masthead-device-mockup .circle, .masthead .masthead-device-mockup .shape-1, .masthead .masthead-device-mockup .shape-2, .features-device-mockup .circle, .features-device-mockup .shape-1, .features-device-mockup .shape-2 {
+    fill: #AD0909 !important;
+}
+
+.text-gradient, .btn-primary {
+    background-color:#AD0909 !important;
+    border-color:transparent !important;
+}
+
+.bg-primary-to-secondary {
+    background-color: #AD0909 !important;
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+}
+
+section.cta {
+    background-image: url(/img/banner.png);
+    height: 600px !important;
+}
